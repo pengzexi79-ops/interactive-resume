@@ -3,7 +3,7 @@
 这是官网的完整可编辑源代码。页面使用 React + TypeScript 构建，包含响应式布局、滚动动画、数字动画、项目详情弹窗、AI观察标签切换、公开联系方式、打印模式和简历下载。
 
 - 正式官网：<https://stunning-puffpuff-d8b0be.netlify.app>
-- 开源仓库：<https://github.com/pengzexi79-ops/pengzexi-ai-portfolio>
+- 开源仓库：<https://github.com/pengzexi79-ops/ui->
 
 ## 本地运行
 

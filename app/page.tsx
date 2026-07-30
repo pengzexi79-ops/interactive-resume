@@ -50,7 +50,7 @@ import { useEffect, useRef, useState } from "react";
 const OFFICIAL_SITE_URL =
   "https://stunning-puffpuff-d8b0be.netlify.app";
 const GITHUB_REPOSITORY_URL =
-  "https://github.com/pengzexi79-ops/pengzexi-ai-portfolio";
+  "https://github.com/pengzexi79-ops/ui-";
 
 const contactChannels = [
   {
@@ -91,7 +91,7 @@ const contactChannels = [
   },
   {
     label: "GitHub",
-    value: "pengzexi79-ops/pengzexi-ai-portfolio",
+    value: "pengzexi79-ops/ui-",
     note: "官网开源代码",
     icon: GitBranch,
     copyable: true,

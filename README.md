@@ -5,7 +5,7 @@
 ## 在线访问
 
 - 个人品牌官网：https://stunning-puffpuff-d8b0be.netlify.app
-- 开源仓库：https://github.com/pengzexi79-ops/pengzexi-ai-portfolio
+- 开源仓库：https://github.com/pengzexi79-ops/ui-
 
 ## 项目特点
 
