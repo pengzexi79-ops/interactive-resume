@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stunning-puffpuff-d8b0be.netlify.app/sitemap.xml
