@@ -1,7 +1,27 @@
 {
-  "name": "pengzexi-ai-portfolio",
+  "name": "interactive-resume",
   "version": "0.1.0",
   "private": true,
+  "description": "彭泽曦的交互式个人简历与个人品牌网站，展示 AI 实践、项目经历和成长轨迹。",
+  "license": "MIT",
+  "author": "彭泽曦",
+  "keywords": [
+    "interactive-resume",
+    "personal-website",
+    "portfolio",
+    "react",
+    "nextjs",
+    "typescript",
+    "ai-native"
+  ],
+  "homepage": "https://stunning-puffpuff-d8b0be.netlify.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pengzexi79-ops/interactive-resume.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pengzexi79-ops/interactive-resume/issues"
+  },
   "engines": {
     "node": ">=22.13.0"
   },
