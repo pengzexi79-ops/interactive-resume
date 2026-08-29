@@ -1,4 +1,4 @@
-# 交互式个人简历 / Peng Zexi Interactive Resume
+# 交互式个人简历 / Peng Ze xi Interactive Resume
 
 彭泽曦的单页个人品牌网站与交互式网页简历，以真实经历为内容主线，展示 AI 实践、内容与运营能力、项目案例、成长时间线和公开联系渠道。
 
